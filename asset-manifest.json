@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todoapp/static/css/main.ed28371a.css",
+    "main.js": "/todoapp/static/js/main.9e3bbc48.js",
+    "static/media/Bangers-Regular.ttf": "/todoapp/static/media/Bangers-Regular.0e89a2279da24d283991.ttf",
+    "index.html": "/todoapp/index.html",
+    "main.ed28371a.css.map": "/todoapp/static/css/main.ed28371a.css.map",
+    "main.9e3bbc48.js.map": "/todoapp/static/js/main.9e3bbc48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed28371a.css",
+    "static/js/main.9e3bbc48.js"
+  ]
+}
